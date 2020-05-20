@@ -19,3 +19,6 @@ conda env create -f=sentiment_analysis.yml
 # to run 
 srun  -n 1 bash -c "./run_and_time.sh 0"
 
+# remove conda env
+conda remove --name sentiment_analysis --all
+
