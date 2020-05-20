@@ -1,5 +1,7 @@
 # MLPerf Reference Implementations
 
+Fork of MLPerf with instructions on how to run on cori.
+
 This is a repository of reference implementations for the MLPerf benchmark. These implementations are valid as starting points for benchmark implementations but are not fully optimized and are not intended to be used for "real" performance measurements of software frameworks or hardware. 
 
 # Preliminary release (v0.5)
